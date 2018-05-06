@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Mind Sport
+
+This is a plugin for competitive programming.
+
+### Github Pages
+1. [Browser extension](https://github.com/tgvdinesh/mind-sport-browser-extension)
+2. [IntelliJ Plugin](https://github.com/tgvdinesh/mind-sport-intellij-plugin)
 
 You can use the [editor on GitHub](https://github.com/tgvdinesh/mind-sport.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
